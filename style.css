@@ -1,0 +1,83 @@
+body{
+	background-color: #FF8C00;
+	font-family: monospace; 
+}
+
+h1{
+	text-align: left; 
+	font-style: italic;
+}
+
+
+.top{
+	position: relative;
+	text-align: center;
+	background-color: #B22222;
+}
+
+.top1{
+	position: absolute; 
+	left: 0px; 
+}
+
+.top2{
+	font-size: 24px;
+	position: absolute;
+	text-align: left;  
+	right: 100px; 
+}
+
+.ph1, .ph2, .ph3, .ph4, .ph5{
+	border-radius: 10px;	
+}
+
+.middle1{
+	position: absolute; 
+	right: 600px;
+}
+
+.middle2{
+	position: absolute; 
+	top: 500px;
+	right: 100px;
+	font-size: 16px;
+}
+
+.middle11{
+	position: absolute; 
+	right: 0px;
+	top: 540px;
+}
+
+.middle22{
+	position: absolute; 
+	top: 950px;
+	right: 100px;
+	font-size: 16px;
+}
+
+.middle111{
+	position: absolute; 
+	right: 310px;
+	top: 540px;
+}
+
+.middle222{
+	position: absolute; 
+	top: 950px;
+	right: 480px;
+	font-size: 16px;
+}
+
+.middle1111{
+	position: absolute; 
+	right: 620px;
+	top: 540px;
+}
+
+.middle2222{
+	position: absolute; 
+	top: 950px;
+	right: 1000px;
+	font-size: 16px;
+}
